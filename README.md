@@ -33,7 +33,7 @@
 - Enhanced and optimized enterprise application modules.  
 - Automated troubleshooting workflows for Microsoft 365.  
 - Improved system stability and memory usage with advanced concurrency design.  
-- Resolved 300+ issues and feature requests, actively contributing to product stability.  
+- Resolved 80+ issues and feature requests, actively contributing to product stability.  
 
 **Project Trainee** – *Zoho Corporation, Chennai* (Sep 2022 – May 2023)  
 - Developed a real-time email traffic simulator for Microsoft 365.  
